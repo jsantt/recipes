@@ -1,0 +1,24 @@
+{
+  "name": "recipe",
+  "version": "1.0.0",
+  "description": "Recipe and shopping list app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsantt/recipes.git"
+  },
+  "keywords": [
+    "Recipe",
+    "food",
+    "shoppinglist"
+  ],
+  "author": "Jani Säntti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsantt/recipes/issues"
+  },
+  "homepage": "https://github.com/jsantt/recipes#readme"
+}
